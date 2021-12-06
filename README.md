@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# realizando cambios en docker y proximamente para su despliegue contenedor Docker en Amazon ECS.
+
+##################################################################################################
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
